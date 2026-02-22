@@ -1,0 +1,5 @@
+{
+  "name": "JARVIS / FRIDAY HUD Assistant",
+  "description": "A futuristic, voice-activated AI assistant inspired by Iron Man's JARVIS and FRIDAY, featuring a high-tech HUD, real-time AI responses, and system monitoring simulations.",
+  "requestFramePermissions": ["microphone"]
+}
